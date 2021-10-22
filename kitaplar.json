@@ -26,5 +26,12 @@
     "yazar": "Anton Çehov",
     "sayfasayisi": "68",
     "gorsel": "https://raw.githubusercontent.com/sayarali/KitaplarJSON/main/altincikogus.jpg"
+  },
+  {
+    "isbn": "9786052951569",
+    "isim": "asdsad",
+    "yazar": "asdasd",
+    "sayfasayisi": "68",
+    "gorsel": "aahttps://raw.githubusercontent.com/sayarali/KitaplarJSON/main/altincikogus.jpg"
   }
 ]
