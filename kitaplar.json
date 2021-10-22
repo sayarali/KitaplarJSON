@@ -1,9 +1,30 @@
 [
   {
-    "isbn": "9784521546847"
+    "isbn": "9786052361610"
     "isim": "Dönüşüm"
     "yazar": "Franz Kafka"
     "sayfasayisi": "96"
     "gorsel": "https://raw.githubusercontent.com/sayarali/KitaplarJSON/main/donusum.jpg"
+  },
+  {
+    "isbn": "9789756902165"
+    "isim": "Cesur Yeni Dünya"
+    "yazar": "Aldous Huxley"
+    "sayfasayisi": "266"
+    "gorsel": "https://raw.githubusercontent.com/sayarali/KitaplarJSON/main/cesuryenidunya.jpg"
+  },
+  {
+    "isbn": "9789753636360"
+    "isim": "Çavdar Tarlasında Çocuklar"
+    "yazar": "J.D. Salinger"
+    "sayfasayisi": "198"
+    "gorsel": "https://raw.githubusercontent.com/sayarali/KitaplarJSON/main/cavdartarlasindacocuklar.jpg"
+  },
+  {
+    "isbn": "9786052951569"
+    "isim": "Altıncı Koğuş"
+    "yazar": "Anton Çehov"
+    "sayfasayisi": "68"
+    "gorsel": "https://raw.githubusercontent.com/sayarali/KitaplarJSON/main/altincikogus.jpg"
   }
 ]
